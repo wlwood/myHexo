@@ -1,0 +1,12 @@
+title: egg文件语法
+date: 2015-10-04 10:39:50
+categories: python
+tags: egg文件
+---
+
+EGG 文件的结构（对比 bam 文件）
+<!--more-->
+
+Panda3D 使用的 Egg 文件使用一些属性来描述场景：简单的几何图形，其中包括特效和碰撞表面，人物包括骨骼、变形、多层次关节，人物动画表。
+
+http://panda3d.noie.name/manual/index.php/Egg%20格式语法详细讲解
